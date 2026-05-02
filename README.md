@@ -23,7 +23,7 @@ Sou um designer gráfico apaixonado por restauração de fotos, interfaces minim
 
 ### 🏎️ Interesses
 * 🎨 **Restauração:** Trazendo memórias de volta à vida.
-* 📱 **UI/UX:** Design minimalista e customização (Olauncher/Niagara).
+* 📱 **UI/UX:** Design minimalista e customização (Windhawk).
 * ⚙️ **Hacking:** Consertando e reaproveitando eletrônicos.
 * 🎮 **Sim Racing:** Entusiasta de Forza Horizon e design automotivo.
 
