@@ -48,12 +48,12 @@ Sou um designer gráfico apaixonado por restauração de fotos, interfaces minim
 
 <img src="https://github.com/LucasDESlGN/LucasDESLGN/raw/main/PCXXXXXXXXX2.png" width="500" />
 
-</center>
-
 <br>
-<hr>
-<center>
-<small>
-Que Deus abençoe vocês.
-</small>
-</center>
+<br>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" style="border: 1px solid #d0d7de; padding: 20px; border-radius: 10px;">
+      <b>Que Deus abençoe vocês.</b>
+    </td>
+  </tr>
+</table>
