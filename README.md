@@ -43,7 +43,7 @@ Sou um designer gráfico apaixonado por restauração de fotos, interfaces minim
 <center>
 <img src="https://github.com/LucasDESlGN/LucasDESLGN/raw/main/download%20(15464).png" width="400" />
 
-<img src="https://github.com/LucasDESlGN/LucasDESLGN/raw/main/sw4.png" width="400" />
+<img src="[https://github.com/LucasDESlGN/LucasDESLGN/blob/main/Prancheta%201.png)" width="400" />
 
 <img src="https://github.com/LucasDESlGN/LucasDESLGN/raw/main/iphone13-promax-azul.png" width="400" />
 </center>
