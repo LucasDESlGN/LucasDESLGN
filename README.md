@@ -40,8 +40,6 @@ Sou um designer gráfico apaixonado por restauração de fotos, interfaces minim
 
 ### 📱 Catálogo de Projetos
 
-### 🎨 Portfólio de Design
-
 <center>
 
 <img src="https://github.com/LucasDESlGN/LucasDESLGN/raw/main/iphone13-promax-azul.png" width="500" />
