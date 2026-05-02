@@ -49,3 +49,11 @@ Sou um designer gráfico apaixonado por restauração de fotos, interfaces minim
 <img src="https://github.com/LucasDESlGN/LucasDESLGN/raw/main/PCXXXXXXXXX2.png" width="500" />
 
 </center>
+
+<br>
+<hr>
+<center>
+<small>
+Que Deus abençoe vocês.
+</small>
+</center>
