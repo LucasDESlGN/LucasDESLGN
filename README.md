@@ -8,6 +8,7 @@ Sou um designer gráfico apaixonado por restauração de fotos, interfaces minim
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas.nalbert)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-1769ff?style=for-the-badge&logo=linkedin&logoColor=white)](COLOQUE_SEU_LINK_DO_LINKEDIN_AQUI)
 [![Steam](https://img.shields.io/badge/STEAM-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Cachorro_caramelimlucas/)
+[![Xbox](https://img.shields.io/badge/XBOX-107C10?style=for-the-badge&logo=xbox&logoColor=white)](https://account.xbox.com/pt-br/profile?gamertag=LuKe999)
 
 ---
 
