@@ -5,8 +5,8 @@
 Sou um designer gráfico apaixonado por restauração de fotos, interfaces minimalistas e hardware hacking. 
 
 [![Behance](https://img.shields.io/badge/BEHANCE-FFD700?style=for-the-badge&logo=behance&logoColor=black)]([https://www.behance.net/lucasnalbert)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-FFD700?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/lucas.nalbert)
-
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas.nalbert)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-1769ff?style=for-the-badge&logo=linkedin&logoColor=white)](COLOQUE_SEU_LINK_DO_LINKEDIN_AQUI)
 ---
 
 ### 🧰 Ferramentas e Habilidades
