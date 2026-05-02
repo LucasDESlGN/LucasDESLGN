@@ -9,6 +9,9 @@ Sou um designer gráfico apaixonado por restauração de fotos, interfaces minim
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-1769ff?style=for-the-badge&logo=linkedin&logoColor=white)](COLOQUE_SEU_LINK_DO_LINKEDIN_AQUI)
 [![Steam](https://img.shields.io/badge/STEAM-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Cachorro_caramelimlucas/)
 [![Xbox](https://img.shields.io/badge/XBOX-107C10?style=for-the-badge&logo=xbox&logoColor=white)](https://account.xbox.com/pt-br/profile?gamertag=LuKe999)
+[![Corinthians](https://img.shields.io/badge/CORINTHIANS-FF0000?style=for-the-badge&logo=corinthians&logoColor=white)](LINK_DO_INSTA_DO_CORINTHIANS)
+[![VSCO](https://img.shields.io/badge/VSCO-000000?style=for-the-badge&logo=vsco&logoColor=white)](LINK_DO_SEU_VSCO)
+[![BongoCat](https://img.shields.io/badge/BONGOCAT-FF9900?style=for-the-badge&logo=spotify&logoColor=white)](LINK_DO_SEU_BONGOCAT)
 
 ---
 
