@@ -1,4 +1,4 @@
-# 🏄‍♂️ Olá, sou o Lucas!
+# 👽 Hi, I'm Lucas!
 
 **Digital Craftsman / Graphic Designer**
 
