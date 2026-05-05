@@ -44,7 +44,7 @@ I'm a graphic designer passionate about photo restoration, minimalist interfaces
 
 <img src="https://github.com/LucasDESlGN/LucasDESLGN/raw/main/iphone13-promax-azul.png" width="500" />
 
-<img src="https://github.com/LucasDESlGN/LucasDESLGN/blob/main/Semgolfffffffffffff_T%C3%ADtulo-1.png" width="500" />
+<img src="https://github.com/LucasDESlGN/LucasDESLGN/blob/main/Semgolfffffffffffff%20T%C3%ADtulo-1.png" width="500" />
 
 <img src="https://github.com/LucasDESlGN/LucasDESLGN/raw/main/Prancheta%201.png" width="500" />
 
