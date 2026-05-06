@@ -11,7 +11,7 @@ I'm a graphic designer passionate about photo restoration, minimalist interfaces
 [![Xbox](https://img.shields.io/badge/XBOX-107C10?style=for-the-badge&logo=xbox&logoColor=white)](https://account.xbox.com/pt-br/profile?gamertag=LuKe999)
 [![Corinthians](https://img.shields.io/badge/CORINTHIANS-FF0000?style=for-the-badge&logo=corinthians&logoColor=white)](LINK_DO_INSTA_DO_CORINTHIANS)
 [![VSCO](https://img.shields.io/badge/VSCO-000000?style=for-the-badge&logo=vsco&logoColor=white)](http://vsco.co/lxncrf)
-[![BongoCat](https://img.shields.io/badge/BONGOCAT-FF9900?style=for-the-badge&logo=spotify&logoColor=white)](LINK_DO_SEU_BONGOCAT)
+[![BongoCat](https://img.shields.io/badge/BONGOCAT-FF9900?style=for-the-badge&logo=spotify&logoColor=white)](https://bongo.cat/)
 
 ---
 
