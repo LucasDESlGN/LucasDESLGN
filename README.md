@@ -51,7 +51,7 @@ I'm a graphic designer passionate about photo restoration, minimalist interfaces
 <img src="https://github.com/LucasDESlGN/LucasDESLGN/raw/main/PCXXXXXXXXX2.png" width="500" />
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/C6767n9K_mUAAAAC/happy-duck-cute-duck.gif" width="200">
+  <img src="https://raw.githubusercontent.com/LucasDESlGN/LucasDESLGN/main/Loop%20Glitch%20GIF%20by%20Cuco.gif" width="400">
 </p>
 
 <br>
