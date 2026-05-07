@@ -50,9 +50,9 @@ I'm a graphic designer passionate about photo restoration, minimalist interfaces
 
 <img src="https://github.com/LucasDESlGN/LucasDESLGN/raw/main/PCXXXXXXXXX2.png" width="500" />
 
-<div align="center">
-  <img src="https://media.tenor.com/C6767n9K_mUAAAAM/happy-duck-cute-duck.gif" width="200px">
-</div>
+<p align="center">
+  <img src="https://media1.tenor.com/m/C6767n9K_mUAAAAC/happy-duck-cute-duck.gif" width="200">
+</p>
 
 <br>
 <br>
