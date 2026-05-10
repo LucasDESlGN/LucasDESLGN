@@ -59,7 +59,7 @@ I'm a graphic designer passionate about photo restoration, minimalist interfaces
 <table align="center" width="100%">
   <tr>
     <td align="center" style="border: 1px solid #d0d7de; padding: 20px; border-radius: 10px;">
-      <b>Que Deus abençoe vocês.</b>
+      <b>Que God above all.</b>
     </td>
   </tr>
 </table>
