@@ -50,16 +50,3 @@ I'm a graphic designer passionate about photo restoration, minimalist interfaces
 
 <img src="https://github.com/LucasDESlGN/LucasDESLGN/raw/main/PCXXXXXXXXX2.png" width="500" />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LucasDESlGN/LucasDESLGN/main/Loop%20Glitch%20GIF%20by%20Cuco.gif" width="400">
-</p>
-
-<br>
-<br>
-<table align="center" width="100%">
-  <tr>
-    <td align="center" style="border: 1px solid #d0d7de; padding: 20px; border-radius: 10px;">
-      <b>God above all.</b>
-    </td>
-  </tr>
-</table>
