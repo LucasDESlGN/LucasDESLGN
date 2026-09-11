@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 200" width="100%" height="200">
+  <defs>
+    <style>
+      @keyframes spin {
+        0% { transform: rotate(0deg); }
+        100% { transform: rotate(360deg); }
+      }
+      @keyframes pulse {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0.4; }
+      }
+      .gear {
+        transform-origin: 100px 100px;
+        animation: spin 4s linear infinite;
+        fill: #58a6ff;
+      }
+      .text-main {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-weight: bold;
+        font-size: 32px;
+        fill: #c9d1d9;
+      }
+      .text-sub {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-size: 18px;
+        fill: #8b949e;
+        animation: pulse 2s ease-in-out infinite;
+      }
+    </style>
+  </defs>
+
+  <!-- Fundo Escuro do GitHub (Opcional, combina com Dark Mode) -->
+  <rect width="100%" height="100%" fill="#0d1117" rx="10"/>
+
+  <!-- Engrenagem Girando -->
+  <g class="gear">
+    <path d="M100 60 C102 60 104 50 100 50 C96 50 98 60 100 60 Z M128 72 L136 64 L128 56 L120 64 Z M140 100 L150 100 L150 90 L140 90 Z M128 128 L136 136 L128 144 L120 136 Z M100 140 L100 150 L90 150 L90 140 Z M72 128 L64 136 L56 128 L64 120 Z M60 100 L50 100 L50 90 L60 90 Z M72 72 L64 64 L72 56 L80 64 Z" opacity="0"/>
+    <circle cx="100" cy="100" r="35" fill="none" stroke="#58a6ff" stroke-width="8"/>
+    <circle cx="100" cy="100" r="15" fill="none" stroke="#58a6ff" stroke-width="6"/>
+    <!-- Dentes da Engrenagem -->
+    <rect x="92" y="55" width="16" height="15" rx="3" fill="#58a6ff"/>
+    <rect x="92" y="130" width="16" height="15" rx="3" fill="#58a6ff"/>
+    <rect x="55" y="92" width="15" height="16" rx="3" fill="#58a6ff"/>
+    <rect x="130" y="92" width="15" height="16" rx="3" fill="#58a6ff"/>
+    <rect x="66" y="66" width="15" height="15" rx="3" fill="#58a6ff" transform="rotate(45 73.5 73.5)"/>
+    <rect x="119" y="119" width="15" height="15" rx="3" fill="#58a6ff" transform="rotate(45 126.5 126.5)"/>
+    <rect x="66" y="119" width="15" height="15" rx="3" fill="#58a6ff" transform="rotate(-45 73.5 126.5)"/>
+    <rect x="119" y="66" width="15" height="15" rx="3" fill="#58a6ff" transform="rotate(-45 126.5 73.5)"/>
+  </g>
+
+  <!-- Textos -->
+  <text x="180" y="95" class="text-main">Perfil em Manutenção</text>
+  <text x="180" y="130" class="text-sub">⚙️ Atualizando projetos e novidades...</text>
+</svg>
